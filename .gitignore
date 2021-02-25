@@ -1,0 +1,6 @@
+# 全て無視
+*
+
+# gitignoreとCOBOLのソースファイルは含める
+!*.cbl
+!.gitignore
